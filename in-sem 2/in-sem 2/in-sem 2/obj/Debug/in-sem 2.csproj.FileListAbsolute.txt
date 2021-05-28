@@ -1,0 +1,7 @@
+C:\Users\Kashish\Desktop\InternShip\c#\Papers\in-sem 2\in-sem 2\in-sem 2\bin\Debug\in-sem 2.exe.config
+C:\Users\Kashish\Desktop\InternShip\c#\Papers\in-sem 2\in-sem 2\in-sem 2\bin\Debug\in-sem 2.exe
+C:\Users\Kashish\Desktop\InternShip\c#\Papers\in-sem 2\in-sem 2\in-sem 2\bin\Debug\in-sem 2.pdb
+C:\Users\Kashish\Desktop\InternShip\c#\Papers\in-sem 2\in-sem 2\in-sem 2\obj\Debug\in-sem 2.csprojAssemblyReference.cache
+C:\Users\Kashish\Desktop\InternShip\c#\Papers\in-sem 2\in-sem 2\in-sem 2\obj\Debug\in-sem 2.csproj.CoreCompileInputs.cache
+C:\Users\Kashish\Desktop\InternShip\c#\Papers\in-sem 2\in-sem 2\in-sem 2\obj\Debug\in-sem 2.exe
+C:\Users\Kashish\Desktop\InternShip\c#\Papers\in-sem 2\in-sem 2\in-sem 2\obj\Debug\in-sem 2.pdb

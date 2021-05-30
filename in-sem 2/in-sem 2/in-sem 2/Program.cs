@@ -95,9 +95,10 @@ namespace Q2
     }
     class VisaProcessor
     {
-        public void SetCallbackForVisaStatus()
+        public delegate void Called();
+        public void SetCallbackForVisaStatus(Called called)
         {
-
+            called();
         }
         public void ProcessVisa(Applicant a)
         {
@@ -113,8 +114,8 @@ namespace Q2
             VisaProcessor visaProcessor = new VisaProcessor();
             visaProcessor.SetCallbackForVisaStatus(
             /* write a lambda expression to provide the callback function to VisaProcessor */
-
-            );
+            () => Console.WriteLine("Visa Processed")
+            ); ;
             foreach (var applicant in applicants)
                 visaProcessor.ProcessVisa(applicant);
         }

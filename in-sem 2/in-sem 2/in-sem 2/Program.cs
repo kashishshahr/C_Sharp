@@ -133,7 +133,7 @@ namespace Q2
             //Converting a value type to a reference type is called called boxing in C#
             //and converting a reference type to a value type is called unboxing in C#. 
             //3 
-            static void Main()
+            static void Q3Main()
 
             //4 
             {
@@ -167,7 +167,7 @@ namespace Q4
     //will you fix it.
     interface IAnimal
     {
-        virtual void Breathe();
+        void Breathe();
     }
 
     /* your answer goes here */

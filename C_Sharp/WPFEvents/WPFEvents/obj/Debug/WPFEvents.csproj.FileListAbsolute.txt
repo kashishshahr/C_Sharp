@@ -1,0 +1,15 @@
+C:\Users\Kashish\source\repos\WPFEvents\WPFEvents\bin\Debug\WPFEvents.exe.config
+C:\Users\Kashish\source\repos\WPFEvents\WPFEvents\bin\Debug\WPFEvents.exe
+C:\Users\Kashish\source\repos\WPFEvents\WPFEvents\bin\Debug\WPFEvents.pdb
+C:\Users\Kashish\source\repos\WPFEvents\WPFEvents\obj\Debug\WPFEvents.csprojAssemblyReference.cache
+C:\Users\Kashish\source\repos\WPFEvents\WPFEvents\obj\Debug\MainWindow.g.cs
+C:\Users\Kashish\source\repos\WPFEvents\WPFEvents\obj\Debug\App.g.cs
+C:\Users\Kashish\source\repos\WPFEvents\WPFEvents\obj\Debug\WPFEvents_MarkupCompile.cache
+C:\Users\Kashish\source\repos\WPFEvents\WPFEvents\obj\Debug\WPFEvents_MarkupCompile.lref
+C:\Users\Kashish\source\repos\WPFEvents\WPFEvents\obj\Debug\MainWindow.baml
+C:\Users\Kashish\source\repos\WPFEvents\WPFEvents\obj\Debug\WPFEvents.g.resources
+C:\Users\Kashish\source\repos\WPFEvents\WPFEvents\obj\Debug\WPFEvents.Properties.Resources.resources
+C:\Users\Kashish\source\repos\WPFEvents\WPFEvents\obj\Debug\WPFEvents.csproj.GenerateResource.cache
+C:\Users\Kashish\source\repos\WPFEvents\WPFEvents\obj\Debug\WPFEvents.csproj.CoreCompileInputs.cache
+C:\Users\Kashish\source\repos\WPFEvents\WPFEvents\obj\Debug\WPFEvents.exe
+C:\Users\Kashish\source\repos\WPFEvents\WPFEvents\obj\Debug\WPFEvents.pdb

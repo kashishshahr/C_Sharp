@@ -1,0 +1,6 @@
+C:\Users\Kashish\source\repos\ConsoleApplication2\MyCodeLibrary\bin\Release\MyCodeLibrary.dll
+C:\Users\Kashish\source\repos\ConsoleApplication2\MyCodeLibrary\bin\Release\MyCodeLibrary.pdb
+C:\Users\Kashish\source\repos\ConsoleApplication2\MyCodeLibrary\obj\Release\MyCodeLibrary.csprojAssemblyReference.cache
+C:\Users\Kashish\source\repos\ConsoleApplication2\MyCodeLibrary\obj\Release\MyCodeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Kashish\source\repos\ConsoleApplication2\MyCodeLibrary\obj\Release\MyCodeLibrary.dll
+C:\Users\Kashish\source\repos\ConsoleApplication2\MyCodeLibrary\obj\Release\MyCodeLibrary.pdb

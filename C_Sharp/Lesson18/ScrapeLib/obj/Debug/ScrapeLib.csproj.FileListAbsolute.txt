@@ -1,0 +1,6 @@
+C:\Users\Kashish\source\repos\Lesson18\ScrapeLib\bin\Debug\ScrapeLib.dll
+C:\Users\Kashish\source\repos\Lesson18\ScrapeLib\bin\Debug\ScrapeLib.pdb
+C:\Users\Kashish\source\repos\Lesson18\ScrapeLib\obj\Debug\ScrapeLib.csprojAssemblyReference.cache
+C:\Users\Kashish\source\repos\Lesson18\ScrapeLib\obj\Debug\ScrapeLib.csproj.CoreCompileInputs.cache
+C:\Users\Kashish\source\repos\Lesson18\ScrapeLib\obj\Debug\ScrapeLib.dll
+C:\Users\Kashish\source\repos\Lesson18\ScrapeLib\obj\Debug\ScrapeLib.pdb

@@ -1,0 +1,10 @@
+C:\Users\Kashish\source\repos\MyClient\MyClient\bin\Debug\MyClient.exe.config
+C:\Users\Kashish\source\repos\MyClient\MyClient\bin\Debug\MyClient.exe
+C:\Users\Kashish\source\repos\MyClient\MyClient\bin\Debug\MyClient.pdb
+C:\Users\Kashish\source\repos\MyClient\MyClient\bin\Debug\MyCodeLibrary.dll
+C:\Users\Kashish\source\repos\MyClient\MyClient\bin\Debug\MyCodeLibrary.pdb
+C:\Users\Kashish\source\repos\MyClient\MyClient\obj\Debug\MyClient.csprojAssemblyReference.cache
+C:\Users\Kashish\source\repos\MyClient\MyClient\obj\Debug\MyClient.csproj.CoreCompileInputs.cache
+C:\Users\Kashish\source\repos\MyClient\MyClient\obj\Debug\MyClient.csproj.CopyComplete
+C:\Users\Kashish\source\repos\MyClient\MyClient\obj\Debug\MyClient.exe
+C:\Users\Kashish\source\repos\MyClient\MyClient\obj\Debug\MyClient.pdb

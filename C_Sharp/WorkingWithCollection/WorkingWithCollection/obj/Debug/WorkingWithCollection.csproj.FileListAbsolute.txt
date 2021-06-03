@@ -1,0 +1,7 @@
+C:\Users\Kashish\source\repos\WorkingWithCollection\WorkingWithCollection\bin\Debug\WorkingWithCollection.exe.config
+C:\Users\Kashish\source\repos\WorkingWithCollection\WorkingWithCollection\bin\Debug\WorkingWithCollection.exe
+C:\Users\Kashish\source\repos\WorkingWithCollection\WorkingWithCollection\bin\Debug\WorkingWithCollection.pdb
+C:\Users\Kashish\source\repos\WorkingWithCollection\WorkingWithCollection\obj\Debug\WorkingWithCollection.csprojAssemblyReference.cache
+C:\Users\Kashish\source\repos\WorkingWithCollection\WorkingWithCollection\obj\Debug\WorkingWithCollection.csproj.CoreCompileInputs.cache
+C:\Users\Kashish\source\repos\WorkingWithCollection\WorkingWithCollection\obj\Debug\WorkingWithCollection.exe
+C:\Users\Kashish\source\repos\WorkingWithCollection\WorkingWithCollection\obj\Debug\WorkingWithCollection.pdb

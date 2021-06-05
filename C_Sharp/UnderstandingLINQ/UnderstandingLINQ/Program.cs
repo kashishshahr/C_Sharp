@@ -317,7 +317,7 @@ namespace LinqWithChannel9
 
     class SequenceLinq
     {
-        static void Main(string[] args)
+        static void SequenceEquak_ZIP(string[] args)
         {
             var wordsA = new string[] { "cherry", "apple", "berry" };
             var wordsB = new string[] { "cherry", "apple", "berry" };
@@ -333,6 +333,43 @@ namespace LinqWithChannel9
 
             Console.Read();
 
+        }
+    }
+    class ProjectionOperators
+    {
+        static void from_fromMain(string[] args)
+        {
+            int[] numbersA = { 0, 2, 4, 5, 6, 8, 9 };
+            int[] numbersB= { 1,3,5,7, 8};
+
+            var pairs = from a in numbersA
+                        from b in numbersB
+                        where a < b
+                        select (a, b);
+            Console.WriteLine("Pairs where a<b");
+            foreach (var pair in pairs)
+            {
+                Console.WriteLine($"{pair.a} is less than {pair.b}");
+            }
+            Console.Read();
+        }
+    }
+    class Lazy_Eager
+    {
+            static void Main(string[] args)
+        {
+            int[] numbers = { 5, 14, 1, 3, 9, 8, 6, 7, 2, 0 };
+            int i = 0;
+            var q = (from n in numbers
+                     select ++i); ;
+            foreach (var v in q)
+            {
+                Console.WriteLine($"v={v},i={i}");
+            } foreach (var v in q)
+            {
+                Console.WriteLine($"v={v},i={i}");
+            }
+            Console.Read();
         }
     }
 }

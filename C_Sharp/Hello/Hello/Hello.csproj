@@ -43,9 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="abstractPractice.cs" />
     <Compile Include="AddembliesandNamespaces.cs" />
     <Compile Include="interfacePractice.cs" />
     <Compile Include="DateTime.cs" />
+    <Compile Include="multipleInterface_class.cs" />
     <Compile Include="object.cs" />
     <Compile Include="player.cs" />
     <Compile Include="Program.cs" />

@@ -27,7 +27,7 @@ public class Program : I1, I2,I3
     {
         Console.WriteLine(this.GetType().ToString()+" I2 implemented");
     }
-    public static void Main(string[] args)
+    public static void InterFacePracticeMain(string[] args)
     {
         Program P = new Program();
         //P. No ExplicitInterface will be given in intellisense..you need to use typecast

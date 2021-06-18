@@ -5,3 +5,10 @@ C:\Users\Kashish\source\repos\Hello\Hello\obj\Debug\Hello.csprojAssemblyReferenc
 C:\Users\Kashish\source\repos\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
 C:\Users\Kashish\source\repos\Hello\Hello\obj\Debug\Hello.exe
 C:\Users\Kashish\source\repos\Hello\Hello\obj\Debug\Hello.pdb
+E:\InternShip\c#\SI\C_Sharp\Hello\Hello\bin\Debug\Hello.exe.config
+E:\InternShip\c#\SI\C_Sharp\Hello\Hello\bin\Debug\Hello.exe
+E:\InternShip\c#\SI\C_Sharp\Hello\Hello\bin\Debug\Hello.pdb
+E:\InternShip\c#\SI\C_Sharp\Hello\Hello\obj\Debug\Hello.csproj.AssemblyReference.cache
+E:\InternShip\c#\SI\C_Sharp\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+E:\InternShip\c#\SI\C_Sharp\Hello\Hello\obj\Debug\Hello.exe
+E:\InternShip\c#\SI\C_Sharp\Hello\Hello\obj\Debug\Hello.pdb

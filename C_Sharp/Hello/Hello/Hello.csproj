@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AddembliesandNamespaces.cs" />
-    <Compile Include="ConsoleApplication.cs" />
+    <Compile Include="interfacePractice.cs" />
     <Compile Include="DateTime.cs" />
     <Compile Include="object.cs" />
     <Compile Include="player.cs" />

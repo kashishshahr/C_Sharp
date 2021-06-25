@@ -134,7 +134,7 @@ namespace Exceptions
     {
         class CustomException
         {
-            static void Main(string[] args)
+            static void CEXcMain(string[] args)
             {
                 throw new UserAlreadyLoggedInException("User Already Logged In");
             }
@@ -156,4 +156,5 @@ namespace Exceptions
     }
 
 }
-
+///use bool b=int.TryParse(Console.REad(),out Numerator);
+// 

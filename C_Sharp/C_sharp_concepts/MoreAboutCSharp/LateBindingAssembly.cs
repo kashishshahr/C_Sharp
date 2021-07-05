@@ -9,11 +9,12 @@ namespace MoreAboutCSharp
 {
     class LateBindingAssembly
     {
-        static void Main(string[] args)
+        static void LateBindingMain(string[] args)
         {
             Assembly executingAssembly = Assembly.GetExecutingAssembly();
             Type customerType = executingAssembly.GetType("MoreAboutCSharp.Customer1");
             object customerInstance=Activator.CreateInstance(customerType);
+            //MethodInfo getFullNameMethod=customerType.GetMethod("GetFullNames");  will build wont run-> null ref exception
             MethodInfo getFullNameMethod=customerType.GetMethod("GetFullName");
             string[] param= new string[2];
             param[0] = "Kashish";

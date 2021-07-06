@@ -10,7 +10,7 @@ namespace MoreAboutCSharp
     {
         private string _firstName;
         private string _lastName;
-        partial void SampleMethod();
+        partial void SampleMethod()
         {
             Console.WriteLine("Full name:\n");
         }
